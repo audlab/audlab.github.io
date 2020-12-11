@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the University of Michigan School of Information, where I am a part of the [Michigan Information Interaction Lab](https://www.mi2lab.com).
+I am a PhD student at the University of Michigan School of Information, where I am a part of the [Michigan Information Interaction Lab](https://www.mi2lab.com).
 
 My research interests lie primarily in the fields of human-computer interaction, virtual/augmented reality and remote collaboration. Recently, I have been studying the use of VR as a collaborative workspace groupware. I use human-centered design techniques to understand how distributed collaborators perform productive and creative tasks in VR.
 
