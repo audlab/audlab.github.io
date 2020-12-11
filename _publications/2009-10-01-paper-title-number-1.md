@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Augmented Reality (AR) provides a unique opportunity to situate learning content in one's environment. In this work, we investigated how AR could be developed to provide an interactive context-based language learning experience.'
 date: 2020-04
-venue: 'CHI '20'
+venue: 'CHI2020'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 This paper is about the number 1. The number 2 is left for future work.
