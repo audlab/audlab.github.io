@@ -15,3 +15,7 @@ My research interests lie primarily in the fields of human-computer interaction,
 During my undergrad, I had the privilege of doing research at the [RICELab](https://ricelab.github.io) at the University of Toronto, the [Human-Centered Ubiquitous Media Group](https://www.en.um.informatik.uni-muenchen.de/index.html) at LMU München and the [User-Centered Design Lab](https://jhcheng.me/lab/) at Polytechnique Montréal. 
 
 I another life, I used to race bikes.
+
+News
+----
+12/10/2020 - I am recruiting one master student to assist me on a VR project. More info about the position [here](https://www.mi2lab.com/winter-2021-research-assistant-position/).
