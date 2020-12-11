@@ -18,4 +18,4 @@ In another life, I used to race bikes.
 
 News
 ----
-12/10/2020 - I am recruiting one master student to assist me on a VR project. More info about the position [here](https://www.mi2lab.com/winter-2021-research-assistant-position/).
+12/10/2020 - I am recruiting one master's student to assist me on a VR project. More info about the position [here](https://www.mi2lab.com/winter-2021-research-assistant-position/).
