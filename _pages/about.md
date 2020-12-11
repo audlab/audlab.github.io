@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the University of Michigan School of Information, where I am a part of the Michigan Information Interaction Lab.
+I am a Ph.D. student at the University of Michigan School of Information, where I am a part of the [Michigan Information Interaction Lab](https://www.mi2lab.com).
 
 My research interests lie primarily in the fields of human-computer interaction, virtual/augmented reality and remote collaboration. Recently, I have been interested in studying the use of VR as a collaborative workspace groupware. I use human-centered design techniques to understand how distributed collaborators perform productive and creative tasks in VR.
 
-During my undergrad, I had the privilege of doing research at the RICELab at the University of Toronto, the Human-Centered Ubiquitous Media Group at LMU Munchen and the User-Centered Design lab at Polytechnique Montreal. 
+During my undergrad, I had the privilege of doing research at the [RICELab](https://ricelab.github.io) at the University of Toronto, the [Human-Centered Ubiquitous Media Group](https://www.en.um.informatik.uni-muenchen.de/index.html) at LMU München and the [User-Centered Design Lab](https://jhcheng.me/lab/) at Polytechnique Montréal. 
 
 I another life, I used to race bikes.
