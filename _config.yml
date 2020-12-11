@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Qu3S944AAAAJ"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Audrey_Labrie2"
+  researchgate     :  #"https://www.researchgate.net/profile/Audrey_Labrie2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"audlab"
   google_plus      :
   keybase          :
   instagram        :
