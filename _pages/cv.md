@@ -58,4 +58,7 @@ Service and leadership
 
 Awards
 ====
-
+* NSERC Undergraduate Student Research Award, May 2020, $6000
+* MITACS Globalink Research Award, May 2019, $6000
+* Polytechnique Montréal Travel Grant, May 2019, $1000
+* UPIR Undergraduate Research Scholarship, Sept 2018, $1500
