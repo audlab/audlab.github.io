@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-====
+=====
 * Ph.D in Information Science, University of Michigan, 2020 -
 * B.Eng in Software Engineering, Polytechnique Montréal, 2016 - 2020
 
 
 Research experience
-====
+=====
 * Summer 2020: Research Intern
   * RICELab, University of Toronto, Faculty of Information
   * Supervisor: Professor Anthony Tang
@@ -35,7 +35,7 @@ Research experience
 
 
 Publications
-====
+=====
 <img src="http://audlab.github.io/images/honorable_mention.jpg"
   width="20"
   height="20"
@@ -47,22 +47,21 @@ Vincent Gagnon, **Audrey Labrie**, Michel Desmarais, and Sameer Bhatnagar. 2019.
   
 
 Teaching
-====
-Teaching Assistant
-=
+=====
+**Teaching Assistant**
 * LOG2420: Analyse et conception des interfaces utilisateurs, Polytechnique Montréal
 * INF1005B: Programmation procédurale, Polytechnique Montréal
 * INF1005C: Programmation procédurale, Polytechnique Montréal
 
 
 Service and leadership
-====
+=====
 * Student Volunteer: UIST '20
 * Reviewer: CHI '20 LBW
 
 
 Awards
-====
+=====
 * NSERC Undergraduate Student Research Award, May 2020, $6000
 * MITACS Globalink Research Award, May 2019, $6000
 * Polytechnique Montréal Travel Grant, May 2019, $1000
