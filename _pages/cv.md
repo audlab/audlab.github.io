@@ -11,49 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Information Science, University of Michigan, 2020 -
+* B.Eng in Software Engineering, Polytechnique Montréal, 2016 - 2020
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Research Intern
+  * RICELab, University of Toronto, Faculty of Information
+  * Supervisor: Professor Anthony Tang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Research Intern
+  * Human-Centered Ubiquitous Media Group, LMU München
+  * Supervisors: Professor Albrecht Schmidt, Dr. Lewis Chuang
+
+* 2019-2020: Research Intern
+  * User-Centered Design Lab, Polytechnique Montréal
+  * Supervisor: Professor Jinghui Cheng
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2018-2019: Research Intern
+  * CALM Lab, Polytechnique Montréal
+  * Supervisor: Professor Michel Desmarais
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+<img src="http://audlab.github.io/images/honorable_mention.jpg"
+  width="20"
+  height="20"
+  style="float:left;">Fiona Draxler, **Audrey Labrie**, Albrecht Schmidt, and Lewis L. Chuang. 2020. Augmented Reality to Enable Users in Learning Case Grammar from Their Real-World Interactions. In *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20)*.
+
+**Audrey Labrie** and Jinghui Cheng. 2020. Adapting Usability Heuristics to the Context of Mobile Augmented Reality. In *Adjunct Publication of the 33rd Annual ACM Symposium on User Interface Software and Technology (UIST '20 Adjunct)*.
+
+Vincent Gagnon, **Audrey Labrie**, Michel Desmarais, and Sameer Bhatnagar. 2019. Filtering non-relevant short answers in peer learning applications. In *Proceedings of The 12th International Conference on Educational Data Mining (EDM ’19)*.
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student Volunteer: UIST '20
+* Reviewer: CHI '20 LBW
+
+Awards
+======
+
