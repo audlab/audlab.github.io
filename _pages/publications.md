@@ -7,10 +7,7 @@ author_profile: true
 
 Conference Papers
 --
-<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png"
-  width="30"
-  height="30"
-  style="float:left;"> Fiona Draxler, **Audrey Labrie**, Albrecht Schmidt, and Lewis L. Chuang. 2020. Augmented Reality to Enable Users in Learning Case Grammar from Their Real-World Interactions. In *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20)*. [PDF](https://dl.acm.org/doi/abs/10.1145/3313831.3376537)
+Fiona Draxler, **Audrey Labrie**, Albrecht Schmidt, and Lewis L. Chuang. 2020. Augmented Reality to Enable Users in Learning Case Grammar from Their Real-World Interactions. In *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20)*. [PDF](https://dl.acm.org/doi/abs/10.1145/3313831.3376537)
 
 
 Posters and Abstracts
