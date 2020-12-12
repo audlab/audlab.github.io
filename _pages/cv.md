@@ -48,8 +48,13 @@ Vincent Gagnon, **Audrey Labrie**, Michel Desmarais, and Sameer Bhatnagar. 2019.
 
 Teaching
 ====
+Teaching Assistant
+=
+* LOG2420: Analyse et conception des interfaces utilisateurs, Polytechnique Montréal
+* INF1005B: Programmation procédurale, Polytechnique Montréal
+* INF1005C: Programmation procédurale, Polytechnique Montréal
 
-  
+
 Service and leadership
 ====
 * Student Volunteer: UIST '20
