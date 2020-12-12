@@ -6,4 +6,6 @@ author_profile: true
 
 ---
 
-Coming soon...
+
+
+![image]('/images/500x300.png'){: style="float: left"} Coming soon...
